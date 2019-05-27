@@ -1,5 +1,5 @@
 {
-  "main.css": "/react-image-to-text-converter/static/css/main.6d2168cd.chunk.css",
+  "main.css": "/react-image-to-text-converter/static/css/main.d3e0ffba.chunk.css",
   "main.js": "/react-image-to-text-converter/static/js/main.c88aca16.chunk.js",
   "main.js.map": "/react-image-to-text-converter/static/js/main.c88aca16.chunk.js.map",
   "runtime~main.js": "/react-image-to-text-converter/static/js/runtime~main.66008e0a.js",
@@ -8,10 +8,10 @@
   "static/js/2.33205529.chunk.js": "/react-image-to-text-converter/static/js/2.33205529.chunk.js",
   "static/js/2.33205529.chunk.js.map": "/react-image-to-text-converter/static/js/2.33205529.chunk.js.map",
   "index.html": "/react-image-to-text-converter/index.html",
-  "precache-manifest.c7217a0446b9d729fb64998141146098.js": "/react-image-to-text-converter/precache-manifest.c7217a0446b9d729fb64998141146098.js",
+  "precache-manifest.36d325dae82e785ccc3f16e35e29ab25.js": "/react-image-to-text-converter/precache-manifest.36d325dae82e785ccc3f16e35e29ab25.js",
   "service-worker.js": "/react-image-to-text-converter/service-worker.js",
   "static/css/2.d1a73c8a.chunk.css.map": "/react-image-to-text-converter/static/css/2.d1a73c8a.chunk.css.map",
-  "static/css/main.6d2168cd.chunk.css.map": "/react-image-to-text-converter/static/css/main.6d2168cd.chunk.css.map",
+  "static/css/main.d3e0ffba.chunk.css.map": "/react-image-to-text-converter/static/css/main.d3e0ffba.chunk.css.map",
   "static/media/UploadIcon.svg": "/react-image-to-text-converter/static/media/UploadIcon.1cedb6e9.svg",
   "static/media/logo.svg": "/react-image-to-text-converter/static/media/logo.5d5d9eef.svg"
 }
