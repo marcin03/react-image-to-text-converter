@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/react-image-to-text-converter/static/js/runtime~main.66008e0a.js"
   },
   {
-    "revision": "a043705857e52f560d9f",
-    "url": "/react-image-to-text-converter/static/js/main.79477414.chunk.js"
+    "revision": "5e8121efd6327f52fae5",
+    "url": "/react-image-to-text-converter/static/js/main.c88aca16.chunk.js"
   },
   {
     "revision": "05ce80e32466da69e28f",
     "url": "/react-image-to-text-converter/static/js/2.33205529.chunk.js"
   },
   {
-    "revision": "a043705857e52f560d9f",
+    "revision": "5e8121efd6327f52fae5",
     "url": "/react-image-to-text-converter/static/css/main.6d2168cd.chunk.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/react-image-to-text-converter/static/css/2.d1a73c8a.chunk.css"
   },
   {
-    "revision": "82a144156f65369230ad03b522cb4177",
+    "revision": "f1289f6a87be81ca7b66f4aa6b07cf31",
     "url": "/react-image-to-text-converter/index.html"
   }
 ];
