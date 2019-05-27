@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://marcin03.github.io/react-image-to-text-converter",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
